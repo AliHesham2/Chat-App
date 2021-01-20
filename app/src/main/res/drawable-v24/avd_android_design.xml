@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/android_design">
+    <target
+        android:name="c"
+        android:animation="@animator/c" />
+    <target
+        android:name="h"
+        android:animation="@animator/h" />
+    <target
+        android:name="a"
+        android:animation="@animator/a" />
+    <target
+        android:name="t"
+        android:animation="@animator/t" />
+    <target
+        android:name="e"
+        android:animation="@animator/e" />
+    <target
+        android:name="m"
+        android:animation="@animator/m" />
+    <target
+        android:name="p"
+        android:animation="@animator/p" />
+    <target
+        android:name="i"
+        android:animation="@animator/i" />
+    <target
+        android:name="r"
+        android:animation="@animator/r" />
+    <target
+        android:name="e2"
+        android:animation="@animator/e2" />
+
+
+</animated-vector>

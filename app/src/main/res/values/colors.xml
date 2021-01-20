@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3eaeae</color>
+    <color name="colorPrimaryDark">#226e6e</color>
+    <color name="p">#226e6e</color>
+    <color name="ErrorText">#EA0303</color>
+    <color name="background">#6A3C3B3C</color>
+    <color name="Golden">#d4af37</color>
+    <color name="Golden2">#ffd700</color>
+    <color name="black">#000000</color>
+</resources>

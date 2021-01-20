@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Chat</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">forgot_password</string>
+    <string name="username">UserName</string>
+    <string name="already_have_account">already have account?</string>
+    <string name="sign_up">Sign Up</string>
+</resources>
